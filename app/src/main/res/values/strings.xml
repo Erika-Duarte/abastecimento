@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">abastecimento</string>
+    <string name="quantidade_abastecida">quantidade abastecida</string>
+    <string name="data">data</string>
+    <string name="quilometragem_atual">quilometragem atual</string>
+    <string name="valor">valor</string>
+    <string name="media">média</string>
+    <string name="salvar_dados">salvar dados</string>
 </resources>
