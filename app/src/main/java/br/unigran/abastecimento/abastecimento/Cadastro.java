@@ -50,9 +50,9 @@ public class Cadastro {
     @Override
     public String toString() {
         return
-                "KM - " + quilometragem +
-                        " | L - " + quantidade_abastecida +
-                        " | Data - " + data +
-                        " | R$ - " + valor ;
+                "KMs " + quilometragem +
+                        " | Litros: " + quantidade_abastecida +
+                        " | Data: " + data +
+                        " | R$: " + valor ;
     }
 }
